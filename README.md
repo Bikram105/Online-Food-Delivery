@@ -1,5 +1,5 @@
-# Online-Food-Delivery
-Database Name: onlinefoodphp
+# Swiggy-full-stack
+Database Name: Swiggy-full-stack
 
 Developed by Bikram Naskar
 
